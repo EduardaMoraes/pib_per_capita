@@ -1,2 +1,2 @@
-# Projeto pib per capita
+# Projeto PIB per capita
 
